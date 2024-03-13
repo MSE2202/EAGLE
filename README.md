@@ -3,7 +3,7 @@
 Component libraries that may be imported as user libraries into Autodesk EAGLE and Fusion 360. Included libraries are:
 
 **_esp32**
-: ESP32 development boards
+: ESP32 development boards and modules
 
 **_modules** 
 : Sensor and motor drive modules
